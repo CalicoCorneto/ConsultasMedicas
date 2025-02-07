@@ -1,6 +1,7 @@
 # Consultorio médico
 
 ##Definición del programa
+
 <p>
 En este prorgama se cumple el funcionamiento mediante el ingreso por medio de administrador para la creación de consultas médicas.
 En este proyecto podemos :
@@ -13,9 +14,11 @@ En este proyecto podemos :
 - Visualizar todas las consultas registradas.
 
 ## Instalación y ejecución del programa
+
 Para realizar correctamente el uso del programa se tendrá que descargar del repositorio el archivo correspondiente llamado **.java**, después se tendrá que inciar el programa como cualquier otro.
 
 ##Uso del programa
+
 Para inciar el programa es necesario validar las licencias como administrador:
 - Usuario:  **Admin**
 - Contraseña: **Admin123**
