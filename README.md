@@ -1,6 +1,6 @@
-#Consultorio médico
+# Consultorio médico
 
-##Definición del programa
+## Definición del programa
 
 En este prorgama se cumple el funcionamiento mediante el ingreso por medio de administrador para la creación de consultas médicas. En este proyecto podemos :
 
@@ -11,11 +11,11 @@ En este prorgama se cumple el funcionamiento mediante el ingreso por medio de ad
 - Registrar fecha y hora de la conulta médica. 
 - Visualizar todas las consultas registradas.
 
-##Instalación y ejecución del programa
+## Instalación y ejecución del programa
 
 Para realizar correctamente el uso del programa se tendrá que descargar del repositorio el archivo correspondiente llamado .java, después se tendrá que inciar el programa como cualquier otro.
 
-##Uso del programa
+## Uso del programa
 
 Para inciar el programa es necesario validar las licencias como administrador:
 
@@ -39,7 +39,7 @@ En estas opciones se puede escoger del número 1 al 5 secuencialmente permitiend
 
 **Nota:** Al crear la cita se tiene que contar con al menos un doctor y un paciente dados de alta, en caso de no ser así, se mostrará un mensaje de **Debe haber al menos un doctor y un paciente registrados.**
 
-###Descripción detallada
+### Descripción detallada
 
 Clase **ConsultasMedicas** es la clase principal de la aplicación, encargada de gestionar el flujo del programa y almacenar listas de doctores, pacientes y citas, y manejar el acceso de los administradores:
 
@@ -103,10 +103,10 @@ Clase **Cita** Se encarga de representa un paciente en el sistema.
 
 ![Image](https://github.com/user-attachments/assets/bef4ca0c-15dc-4b1c-844b-289edc6f5490)
 
-##Créditos
+## Créditos
 
 Luis Moran
 
-##Licencia
+## Licencia
 
 Este proyecto esta licenciado bajo MIT
