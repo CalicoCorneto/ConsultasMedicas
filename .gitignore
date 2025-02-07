@@ -1,7 +1,8 @@
-.class
-.swp
+*.class
+*.swp
 nbproject/
-.ideal/
+.idea/
 *.iml
-.DS_Store
+*.DS_Store
 target/
+*.xml
